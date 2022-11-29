@@ -1,58 +1,3 @@
-body {
-  background: #f2f2f2;
-}
-
-body.light {
-  background-color: #141d2f;
-}
-
-.App {
-  text-align: center;
-}
-
-.theme_switcher,
-.header-wrap {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-}
-
-.header-wrap {
-  width: 730px;
-  margin: 0 auto;
-  justify-content: space-between;
-}
-
-.container-wrap {
-  width: 730px;
-  margin: 0 auto;
-}
-
-.app-title {
-  font-size: 26px;
-  line-height: 39px;
-  color: #222731;
-}
-
-body.light .app-title {
-  color: #ffffff;
-}
-
-.theme-title {
-  font-weight: 700;
-  font-size: 13px;
-  letter-spacing: 2.5px;
-  color: #697c9a;
-  text-transform: uppercase;
-}
-
-.theme-icon {
-  width: 20px;
-  height: 20px;
-  margin-left: 16px;
-}
-
 .cardWrap {
   padding: 48px;
   background: #ffffff;
@@ -84,7 +29,7 @@ body.light .app-title {
   color: #2b3442;
 }
 
-.login {
+.username {
   font-size: 16px;
   line-height: 24px;
   color: #0079ff;
