@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-users-search/static/css/main.a017799b.css",
+    "main.js": "/github-users-search/static/js/main.4b4c1f2c.js",
+    "static/js/787.f5711339.chunk.js": "/github-users-search/static/js/787.f5711339.chunk.js",
+    "static/media/icon-sun.svg": "/github-users-search/static/media/icon-sun.f28a8996f9959c40bdff14d5a43c08d8.svg",
+    "static/media/icon-website.svg": "/github-users-search/static/media/icon-website.b7923f6c1dae9717c079c60d8a5c82e5.svg",
+    "static/media/icon-company.svg": "/github-users-search/static/media/icon-company.6f78ffb334b191c8ed54d0c2a6f7cc25.svg",
+    "index.html": "/github-users-search/index.html",
+    "static/media/icon-twitter.svg": "/github-users-search/static/media/icon-twitter.f6a2a695fbb260b28a9fd67dd4179ea5.svg",
+    "static/media/icon-moon.svg": "/github-users-search/static/media/icon-moon.cce754cec46d095fd3ce12737f38694b.svg",
+    "static/media/icon-search.svg": "/github-users-search/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
+    "static/media/icon-location.svg": "/github-users-search/static/media/icon-location.f11c5487a9922cbad40a27e8cc1cfaee.svg",
+    "main.a017799b.css.map": "/github-users-search/static/css/main.a017799b.css.map",
+    "main.4b4c1f2c.js.map": "/github-users-search/static/js/main.4b4c1f2c.js.map",
+    "787.f5711339.chunk.js.map": "/github-users-search/static/js/787.f5711339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a017799b.css",
+    "static/js/main.4b4c1f2c.js"
+  ]
+}
